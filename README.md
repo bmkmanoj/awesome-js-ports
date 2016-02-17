@@ -6,3 +6,4 @@ A collection of awesome port of libraries from other languages to JavaScript.
 * [PhpJS - from PHP functions](https://github.com/kvz/phpjs)
 * [JSNetworkX - from NetworkX](https://github.com/fkling/JSNetworkX)
 * [JS Joda - from Java Joda time](https://github.com/pithu/js-joda)
+* [RubyJS - from Ruby Core ](https://github.com/rubyjs/core-lib)
