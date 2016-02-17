@@ -8,3 +8,4 @@ A collection of awesome port of libraries from other languages to JavaScript.
 * [JS Joda - from Java Joda time](https://github.com/pithu/js-joda)
 * [RubyJS - from Ruby Core ](https://github.com/rubyjs/core-lib)
 * [Tweetnacl-js - from TweetNaCl](https://github.com/dchest/tweetnacl-js)
+* [JSMockito - from Mockito](https://github.com/cleishm/jsmockito)
