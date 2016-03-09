@@ -12,5 +12,5 @@ A collection of awesome port of libraries from other languages to JavaScript.
 * [processing.js - from Processing](http://processingjs.org/)
 * [sugar.js - from most of the cool stuff in Python and Ruby](http://sugarjs.com/)
 * [Py.js — Python](http://pyjs.org/)
-* [mori.js — Closure](http://swannodette.github.io/mori/)
+* [mori.js — Clojure](http://swannodette.github.io/mori/)
 * [linq.js — LINQ (as in .net)](https://github.com/mihaifm/linq)
