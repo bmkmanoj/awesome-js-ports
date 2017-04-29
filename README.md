@@ -14,3 +14,4 @@ A collection of awesome port of libraries from other languages to JavaScript.
 * [Py.js — Python](http://pyjs.org/)
 * [mori.js — Clojure](http://swannodette.github.io/mori/)
 * [linq.js — LINQ (as in .net)](https://github.com/mihaifm/linq)
+* [JSNetworkX - Build, process and analyze graphs in JavaScript (port of NetworkX)](https://github.com/fkling/JSNetworkX)
